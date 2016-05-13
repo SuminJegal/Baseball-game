@@ -1,2 +1,2 @@
-# Baseball-game
-Baseball game Semaphore programming
+# Baseball-Game
+Baseball Game using semaphore and sharing memory(Memory map)
